@@ -1,0 +1,30 @@
+body{
+    background-color:azure;
+}
+#unoimg{
+    width:300px;
+    height:300px;
+    margin-top:20px;
+
+}
+.unoimg1{
+    text-align: center;
+}
+#rollbut{
+    margin-top:20px;
+    width: 70px;
+    height:45px;
+    font-size: large;
+    border-radius:5px;
+    background-color: rgba(65, 181, 248, 0.933);
+}
+#cards{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    color:rgb(255, 0, 0);
+    margin-top:2px;
+    text-align: center;
+}
+#ans{
+    font-weight:1000;
+}
